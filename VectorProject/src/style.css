@@ -1,0 +1,15 @@
+.first1 {
+    color: white;
+}
+
+.first1 .first2 {
+    background: green;
+}
+
+.second1 {
+    color: black;
+}
+
+.second1 .second2 {
+    background: yellow;
+}
