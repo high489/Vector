@@ -6,7 +6,7 @@ import "./style.css"
 
 import { sum, substract, divide } from "./components/module.js"
 
-let a = sum(5, 3), b = substract(3, 1), c = divide(6, 3);
+let a = sum(5, 3), b = substract(3, 1), c = divide(21, 3);
 const res = `sum = ${a}, substract = ${b}, divide = ${c}`;
 
 ReactDOM.render(
